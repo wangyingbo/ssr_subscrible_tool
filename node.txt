@@ -57,37 +57,3 @@ ssr://MjE3LjE5Ny4xNjEuNzM6MTIyMjM6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjp0bHMxLj
 ss://YWVzLTI1Ni1nY206QUxMRU4uaXZlcnNvbjM@178.128.115.144:36112#%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%9A%B4%E5%8A%9B%E5%8A%A0%E9%80%9F
 ssr://MTA0LjE2OC4xNTEuMTY1OjIzMzM6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6UVV4TVJVNXBkbVZ5YzI5dU13Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9U0c5emNuZHBibVJ6Jmdyb3VwPQ
 
-
-
-# 20190916添加 - https://github.com/1sniper/ssr_subscrible_tool/blob/master/node.txt
-ssr://anAxLm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://anAyLm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://anAzLm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://anA0Lm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://aGsxLm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://aGsyLm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://dHcxLm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://dHcyLm95dnBuc2VydmVyLmNvbTozNTcyOnBsYWluOnJjNC1tZDU6b3JpZ2luOlkyaDBNVGs1Tnk0dUxpOHZMdz09
-
-ssr://c2dwMS5veXZwbnNlcnZlci5jb206MzU3MjpwbGFpbjpyYzQtbWQ1Om9yaWdpbjpZMmgwTVRrNU55NHVMaTh2THc9PQ==
-
-ssr://c2dwMi5veXZwbnNlcnZlci5jb206MzU3MjpwbGFpbjpyYzQtbWQ1Om9yaWdpbjpZMmgwTVRrNU55NHVMaTh2THc9PQ==
-
-ssr://dXNhMS5veXZwbnNlcnZlci5jb206MzU3MjpwbGFpbjpyYzQtbWQ1Om9yaWdpbjpZMmgwTVRrNU55NHVMaTh2THc9PQ==
-
-ssr://dXNhMi5veXZwbnNlcnZlci5jb206MzU3MjpwbGFpbjpyYzQtbWQ1Om9yaWdpbjpZMmgwTVRrNU55NHVMaTh2THc9PQ==
-
-ssr://dXNhMy5veXZwbnNlcnZlci5jb206MzU3MjpwbGFpbjpyYzQtbWQ1Om9yaWdpbjpZMmgwTVRrNU55NHVMaTh2THc9PQ==
-
-ssr://dXNhNC5veXZwbnNlcnZlci5jb206MzU3MjpwbGFpbjpyYzQtbWQ1Om9yaWdpbjpZMmgwTVRrNU55NHVMaTh2THc9PQ==
-
-
-
-
